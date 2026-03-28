@@ -84,7 +84,7 @@ Apenas é necessário ter o Python e o compilador GCC instalados.
 
 ## Quadro Kanban ( ainda em WIP ), Histórias de Usuário e Protótipo
 
-**Todas as informações podem ser acessado a partir do Trello ( Kanban ) abaixo:**
+**Todas as informações podem ser acessado a partir do Trello ( Kanban ):**
 https://trello.com/b/T2SYFo8U/projeto-advinhacao
 
 <img width="1153" height="456" alt="image" src="https://github.com/user-attachments/assets/6ae667e6-6b40-4ae5-84c5-279d98869ff2" />
