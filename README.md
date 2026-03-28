@@ -82,11 +82,11 @@ Apenas é necessário ter o Python e o compilador GCC instalados.
   gcc analise_recursiva.c -o analise.exe
   .\analise.exe
 
-## Quadro Kanban ( ainda em WIP ) e Protótipo de Histórias de Usuário
+## Quadro Kanban ( ainda em WIP ), Histórias de Usuário e Protótipo
 
-**O protótipo das histórias podem ser acessados aqui:**
-https://www.figma.com/make/4IkJ2TC3GcWov95XMemC4y/Prot%C3%B3tipo-Jogo-Advinha%C3%A7%C3%A3o?t=esiRLsT14sceeyPh-1
+**Todas as informações podem ser acessado a partir do Trello ( Kanban ) abaixo:**
+https://trello.com/b/T2SYFo8U/projeto-advinhacao
 
-*Imagem do quadro do Kanban:*
+<img width="1153" height="456" alt="image" src="https://github.com/user-attachments/assets/6ae667e6-6b40-4ae5-84c5-279d98869ff2" />
 
-<img width="859" height="414" alt="image" src="https://github.com/user-attachments/assets/8aa22925-f73b-447d-8b7c-10af28ce5d63" />
+
