@@ -56,7 +56,12 @@ O desenvolvimento seguiu o framework Ágil com base em 10 Histórias de Utilizad
 **#10 - Geração de Sugestão de Estratégia (Prioridade Baixa)**
 > **Como** jogador em busca de melhoria, **quero** receber feedback baseado na minha média geral, **para que** eu descubra se preciso de mudar a minha tática.
 > *Critérios de Aceitação:* Compara a média com o limite da Busca Binária (7) e exibe uma dica.
-> 
+---
+
+# Épico 1 - Desenvolvimento de Jogo de Advinhação Análitico
+
+> "Como jogador e estudante, eu quero um jogo de adivinhação via terminal que não apenas funcione com mecânicas de dicas, mas que também registre todas as minhas partidas em um arquivo de texto para calcular, de forma recursiva, estatísticas do meu desempenho e me sugerir melhores estratégias."
+
 ---
 
 ## 📂 Ficheiros do Projeto
@@ -64,29 +69,20 @@ O desenvolvimento seguiu o framework Ágil com base em 10 Histórias de Utilizad
 * 🎮 **`jogo.c`**: O jogo em si (Paradigma Imperativo)
 * 📊 **`analise_recursiva.c`**: O cérebro da operação (Paradigma Funcional/Recursivo)
 
-## 🚀 Como testar no computador
+---
 
-Apenas é necessário ter o Python e o compilador GCC instalados.
+## Quadro Kanban, Histórias de Usuário e Protótipo
 
-**1. Criar os dados de teste:**
-
-   python geradordataset.py
-
-**2. Jogar uma partida:**
-
-   gcc jogo.c -o jogo.exe
-   .\jogo.exe
-
-**3. Ver as estatísticas e os insights:**
-
-  gcc analise_recursiva.c -o analise.exe
-  .\analise.exe
-
-## Quadro Kanban ( ainda em WIP ), Histórias de Usuário e Protótipo
-
-**Todas as informações podem ser acessado a partir do Trello ( Kanban ):**
+**Todas as informações podem ser acessado a partir do Trello (Kanban):**
 https://trello.com/b/T2SYFo8U/projeto-advinhacao
 
 <img width="1153" height="456" alt="image" src="https://github.com/user-attachments/assets/6ae667e6-6b40-4ae5-84c5-279d98869ff2" />
 
+---
 
+## Quadros do Protótipo:
+https://www.figma.com/make/4IkJ2TC3GcWov95XMemC4y/Prot%C3%B3tipo-Jogo-Advinha%C3%A7%C3%A3o?fullscreen=1&t=VLXS9pagJK3lLv1x-1
+
+<img width="1293" height="506" alt="image" src="https://github.com/user-attachments/assets/8f238a18-2771-487f-a8a6-4db405bc64c6" />
+
+---
