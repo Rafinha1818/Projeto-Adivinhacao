@@ -73,16 +73,17 @@ O desenvolvimento seguiu o framework Ágil com base em 10 Histórias de Utilizad
 
 ## Quadro Kanban, Histórias de Usuário e Protótipo
 
-**Todas as informações podem ser acessado a partir do Trello (Kanban):**
+# Trello (Kanban) + Histórias de Usuário:
 https://trello.com/b/T2SYFo8U/projeto-advinhacao
 
-<img width="1153" height="456" alt="image" src="https://github.com/user-attachments/assets/6ae667e6-6b40-4ae5-84c5-279d98869ff2" />
+<img width="1361" height="464" alt="image" src="https://github.com/user-attachments/assets/f9150c2c-9c49-4393-b884-e99e7d9fe134" />
 
 ---
 
-## Quadros do Protótipo:
-https://www.figma.com/make/4IkJ2TC3GcWov95XMemC4y/Prot%C3%B3tipo-Jogo-Advinha%C3%A7%C3%A3o?fullscreen=1&t=VLXS9pagJK3lLv1x-1
+# Protótipo:
+https://www.figma.com/make/4IkJ2TC3GcWov95XMemC4y/Prot%C3%B3tipo-Jogo-Advinha%C3%A7%C3%A3o?fullscreen=1&t=A08Xi9uWNA31xWDQ-1
 
-<img width="1293" height="506" alt="image" src="https://github.com/user-attachments/assets/8f238a18-2771-487f-a8a6-4db405bc64c6" />
+<img width="1288" height="534" alt="image" src="https://github.com/user-attachments/assets/bcb8014d-82a4-46a8-8362-65dae4e7dd0a" />
+
 
 ---
