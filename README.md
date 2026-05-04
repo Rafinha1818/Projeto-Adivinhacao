@@ -15,22 +15,34 @@ Este projeto foi desenvolvido **individualmente** por mim. Para manter a organiz
 ## 🛠️ Metodologia e Histórias de Utilizador
 O desenvolvimento seguiu o framework Ágil com base em 13 Histórias de Utilizador bem definidas no padrão **3Cs (Cartão, Conversa, Confirmação)**.
 
-### 📝 Backlog Priorizado
+### 📝 Backlog Priorizado ( Com suas prioridades e status atuais )
 
-História de Usuário	Prioridade	Status
 H1	Interface de boas-vindas e explicação das regras.	Alta	✅
+
 H2	Geração aleatória do número secreto pelo sistema.	Alta	✅
+
 H3	Entrada de palpites do usuário via terminal.	Alta	✅
+
 H4	Dicas visuais ("Muito alto" ou "Muito baixo") após cada erro.	Alta	✅
+
 H5	Contador de tentativas para medir performance da partida.	Média	✅
+
 H6	Persistência: Gravação do resultado da partida em arquivo .txt.	Alta	✅
+
 H7	Script Python para geração automática de dataset de teste (150 partidas).	Média	✅
+
 H8	Leitura e carregamento do arquivo de histórico pelo programa C.	Alta	✅
+
 H9	Cálculo de Média e Desvio Padrão usando Recursividade.	Alta	✅
+
 H10	Sistema de Insight: Sugestão de estratégia baseada na média do jogador.	Baixa	✅
+
 H11	Níveis de Dificuldade: Seleção de intervalos (1-50, 1-100, 1-500).	Média	✅
+
 H12	Modo Morte Súbita: Opção de limite rígido de 7 tentativas.	Média	✅
+
 H13	Loop de Rejogabilidade: Reiniciar o jogo sem encerrar o executável.	Alta	✅
+
 ---
 
 # Épico 1 - Desenvolvimento de Jogo de Advinhação Análitico
