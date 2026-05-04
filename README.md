@@ -71,12 +71,25 @@ O desenvolvimento seguiu o framework Ágil com base em 10 Histórias de Utilizad
 
 ---
 
+
+# Como rodar o projeto ( Terminal )
+
+ - Compilar o Jogo
+gcc jogo.c -o jogo.exe
+
+ - Compilar a Análise (necessário -lm para math.h)
+gcc analise_recursiva.c -o analise.exe -lm
+
+ - Executar
+.\jogo.exe
+
+---
 ## Quadro Kanban, Histórias de Usuário e Protótipo
 
 # Trello (Kanban) + Histórias de Usuário:
 https://trello.com/b/T2SYFo8U/projeto-advinhacao
 
-<img width="1361" height="464" alt="image" src="https://github.com/user-attachments/assets/f9150c2c-9c49-4393-b884-e99e7d9fe134" />
+<img width="1366" height="519" alt="image" src="https://github.com/user-attachments/assets/86195da0-ffe5-4dd7-8680-1b0d70d46004" />
 
 ---
 
@@ -87,3 +100,6 @@ https://www.figma.com/make/4IkJ2TC3GcWov95XMemC4y/Prot%C3%B3tipo-Jogo-Advinha%C3
 
 
 ---
+# Relato de programação em Par
+
+- O projeto foi desenvolvido de forma individual, aplicando técnicas de revisão de código contínua para garantir a qualidade das funções recursivas e da integração com o dataset. Porém com o auxilio em umas partes do código com uma IA.
