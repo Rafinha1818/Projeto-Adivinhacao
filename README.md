@@ -90,7 +90,7 @@ https://www.figma.com/make/4IkJ2TC3GcWov95XMemC4y/Prot%C3%B3tipo-Jogo-Advinha%C3
 ---
 # Relato de programação em Par
 
-- O projeto foi desenvolvido de forma individual, aplicando técnicas de revisão de código contínua para garantir a qualidade das funções recursivas e da integração com o dataset. Porém com o auxilio em umas partes do código com uma IA.
+- O projeto foi desenvolvido de forma individual, aplicando técnicas de revisão de código contínua para garantir a qualidade das funções recursivas e da integração com o dataset. Porém com o auxilio em umas partes do código com uma IA ( Principalmente em ajustes )
 
 ---
 
