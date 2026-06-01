@@ -96,8 +96,8 @@ https://www.figma.com/make/4IkJ2TC3GcWov95XMemC4y/Prot%C3%B3tipo-Jogo-Advinha%C3
 
 # Issue/Bug Tracker
 
-- Até o momento, houveram 3 bugs solucionados.
+- Até o momento, houveram 4 bugs solucionados.
 
-<img width="1247" height="277" alt="image" src="https://github.com/user-attachments/assets/fcccf5d8-b499-4b53-8b1b-5d9a0b1aa0c2" />
+<img width="1278" height="342" alt="image" src="https://github.com/user-attachments/assets/61693833-0c31-4d1a-8cf1-4651a7b020f9" />
 
 ---
