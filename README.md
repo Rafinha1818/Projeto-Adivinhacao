@@ -101,3 +101,12 @@ https://www.figma.com/make/4IkJ2TC3GcWov95XMemC4y/Prot%C3%B3tipo-Jogo-Advinha%C3
 <img width="1278" height="342" alt="image" src="https://github.com/user-attachments/assets/61693833-0c31-4d1a-8cf1-4651a7b020f9" />
 
 ---
+
+# Screencast atualizado
+
+- O screencast do funcionamento do programa + codigo segue abaixo. ( poderá haver mudanças )
+
+  https://youtu.be/L5CeDIDf8AQ
+
+
+
