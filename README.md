@@ -139,9 +139,9 @@ https://www.figma.com/make/4IkJ2TC3GcWov95XMemC4y/Prot%C3%B3tipo-Jogo-Advinha%C3
 
 # Screencast atualizado
 
-- O screencast do funcionamento do programa + codigo segue abaixo. ( poderá haver mudanças )
+- O screencast do funcionamento do programa + codigo segue abaixo.
 
-  https://youtu.be/L5CeDIDf8AQ
+ https://youtu.be/fT4pZZ_26uE
 
 
 
