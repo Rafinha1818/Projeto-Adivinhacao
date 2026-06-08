@@ -53,6 +53,8 @@ H15 Implementação de efeitos sonoros nativos via Beep do Windows. Média ✅
 
 H16 Sistema de pontuação dinâmica (Score) baseado em tentativas e modos. Média ✅
 
+
+# Sprint 03:
 H17 Invalidação e alerta de palpites fora do intervalo do nível. Alta ✅
 
 H18 Menu de personalização de temas de cores do terminal com ANSI. Baixa ✅
