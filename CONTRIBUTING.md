@@ -1,6 +1,6 @@
-# 🤝 Como Contribuir para o Retro Arcade System
+# 🤝 Como Contribuir para o Jogo de Advinhação Otimizado
 
-Obrigado pelo interesse em contribuir para o nosso jogo de adivinhação! Este documento serve como um guia rápido para configurar o ambiente de desenvolvimento na sua máquina e submeter as suas melhorias.
+Obrigado pelo interesse em contribuir para o meu jogo de adivinhação! Este documento serve como um guia rápido para configurar o ambiente de desenvolvimento na sua máquina e submeter as suas melhorias.
 
 ## 🛠️ Configuração do Ambiente (Setup Local)
 
@@ -13,7 +13,7 @@ Para rodar o projeto localmente, precisará das seguintes ferramentas:
    git clone https://github.com/Rafinha1818/Projeto-Adivinhacao.git
 
 2. Navegue até à pasta do projeto:
-   cd https://github.com/Rafinha1818/Projeto-Adivinhacao.git
+   cd Projeto-Adivinhacao
 
 3. Compile o jogo principal utilizando o GCC:
    gcc jogo.c -o jogo.exe
@@ -25,4 +25,27 @@ Para rodar o projeto localmente, precisará das seguintes ferramentas:
    .\jogo.exe
 
 
+## 🚀 Como Contribuir com Código
 
+1. Crie uma nova branch para a sua funcionalidade:
+   git checkout -b feature/minha-nova-funcionalidade
+
+2. Faça as suas alterações no código fonte. Certifique-se de que o código compila sem erros (warnings).
+
+3. Adicione os ficheiros modificados:
+   git add .
+
+4. Faça o commit utilizando o padrão de Conventional Commits:
+
+feat: para novas funcionalidades
+
+fix: para correção de bugs
+
+docs: para alterações na documentação
+
+Exemplo: git commit -m "feat: adiciona novo tema de cores neon"
+
+5. Envie a sua branch para o repositório remoto:
+   git push origin feature/minha-nova-funcionalidade
+
+6. Abra um Pull Request no GitHub detalhando as alterações propostas.
