@@ -107,7 +107,7 @@ gcc analise_recursiva.c -o analise.exe -lm
 # Trello (Kanban) + Histórias de Usuário:
 https://trello.com/b/T2SYFo8U/projeto-advinhacao
 
-<img width="1142" height="503" alt="image" src="https://github.com/user-attachments/assets/dc5302a6-7fed-4f17-9497-6064ecb34112" />
+<img width="1359" height="501" alt="image" src="https://github.com/user-attachments/assets/c5698a3b-78eb-4630-9cf6-33eee7514f28" />
 
 
 ---
