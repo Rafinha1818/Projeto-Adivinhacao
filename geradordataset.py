@@ -27,3 +27,5 @@ with open(nome_arquivo, "w") as arquivo:
 
 print(f"✅ Sucesso! Dataset com {quantidade_partidas} partidas gerado no ficheiro '{nome_arquivo}'.")
 print(f"🔒 Os dados foram ofuscados com a chave de segurança (+{chave_mascara}).")
+
+# Fim

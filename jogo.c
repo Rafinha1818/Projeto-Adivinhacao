@@ -184,3 +184,5 @@ int main() {
     printf("%s\nOBRIGADO POR JOGAR!%s\n\n", C_CYAN, C_RESET);
     return 0;
 }
+
+// Fim 
