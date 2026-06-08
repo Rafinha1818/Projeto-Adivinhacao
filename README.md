@@ -83,7 +83,7 @@ H23 Modo de jogo Contra o Relógio (Time Attack) de 25 segundos. Alta ✅
 ---
 
 ## 📂 Ficheiros do Projeto
-* 🐍 **`geradordataset.py`**: Script em Python que cria os dados mockados
+* 🐍 **`geradordataset.py`**: Script em Python que cria os dados mockados (Opcional)
 * 🎮 **`jogo.c`**: O jogo em si (Paradigma Imperativo)
 * 📊 **`analise_recursiva.c`**: O cérebro da operação (Paradigma Funcional/Recursivo)
 
@@ -95,11 +95,14 @@ H23 Modo de jogo Contra o Relógio (Time Attack) de 25 segundos. Alta ✅
  - Compilar o Jogo
 gcc jogo.c -o jogo.exe
 
- - Compilar a Análise (necessário -lm para math.h)
-gcc analise_recursiva.c -o analise.exe -lm
 
+ - Compilar a Análise (necessário -lm para math.h)
+gcc analise_recursiva.c -o analise.exe
+
+- (Opcional) Rodar o código Python para criar listas e usar análise como teste
+  
  - Executar
-.\jogo.exe
+.\jogo.exe e .\analise.exe
 
 ---
 ## Quadro Kanban, Histórias de Usuário e Protótipo
@@ -127,9 +130,10 @@ https://www.figma.com/make/4IkJ2TC3GcWov95XMemC4y/Prot%C3%B3tipo-Jogo-Advinha%C3
 
 # Issue/Bug Tracker
 
-- Até o momento, houveram 4 bugs solucionados.
+- Foram solucionados no total, 9 bugs.
 
-<img width="1278" height="342" alt="image" src="https://github.com/user-attachments/assets/61693833-0c31-4d1a-8cf1-4651a7b020f9" />
+<img width="1225" height="627" alt="image" src="https://github.com/user-attachments/assets/fc63af60-72c8-43d8-b3b2-84bf597d8121" />
+
 
 ---
 
