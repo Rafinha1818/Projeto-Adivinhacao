@@ -1,0 +1,10 @@
+# Ignorar executáveis do C
+*.exe
+*.out
+
+# Ignorar o histórico e relatórios gerados localmente
+historico_partidas.txt
+relatorio_performance.csv
+
+# Ignorar pastas da IDE (se usar VS Code)
+.vscode/
