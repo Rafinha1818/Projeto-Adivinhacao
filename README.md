@@ -75,6 +75,11 @@ H23 Modo de jogo Contra o Relógio (Time Attack) de 25 segundos. Alta ✅
 
 > "Como jogador e estudante, eu quero um jogo de adivinhação via terminal que não apenas funcione com mecânicas de dicas, mas que também registre todas as minhas partidas em um arquivo de texto para calcular, de forma recursiva, estatísticas do meu desempenho e me sugerir melhores estratégias."
 
+# Épico 2 - Gamificação, Customização e Módulo Analítico Avançado
+
+> "Como jogador e analista de dados, eu quero uma experiência de jogo mais imersiva com recursos visuais, sonoros e novos modos customizáveis, mas que também me permita exportar os dados estruturados e visualizar gráficos de desempenho diretamente no terminal para aprofundar as análises sobre a minha performance."
+
+
 ---
 
 ## 📂 Ficheiros do Projeto
