@@ -37,11 +37,35 @@ H9	Cálculo de Média e Desvio Padrão usando Recursividade.	Alta	✅
 
 H10	Sistema de Insight: Sugestão de estratégia baseada na média do jogador.	Baixa	✅
 
+
+# Sprint 01:
 H11	Níveis de Dificuldade: Seleção de intervalos (1-50, 1-100, 1-500).	Média	✅
 
 H12	Modo Morte Súbita: Opção de limite rígido de 7 tentativas.	Média	✅
 
 H13	Loop de Rejogabilidade: Reiniciar o jogo sem encerrar o executável.	Alta	✅
+
+
+# Sprint 02:
+H14 Introdução animada com efeito de digitação lenta na consola. Alta ✅
+
+H15 Implementação de efeitos sonoros nativos via Beep do Windows. Média ✅
+
+H16 Sistema de pontuação dinâmica (Score) baseado em tentativas e modos. Média ✅
+
+H17 Invalidação e alerta de palpites fora do intervalo do nível. Alta ✅
+
+H18 Menu de personalização de temas de cores do terminal com ANSI. Baixa ✅
+
+H19 Modo de jogo com limite de intervalo dinâmico e customizado. Média ✅
+
+H20 Renderização de gráfico de barras de desempenho em formato ASCII. Baixa ✅
+
+H21 Camada de mascaramento e ofuscação de dados no ficheiro de histórico. Alta ✅
+
+H22 Exportação estruturada do histórico de partidas para formato CSV. Média ✅
+
+H23 Modo de jogo Contra o Relógio (Time Attack) de 25 segundos. Alta ✅
 
 ---
 
